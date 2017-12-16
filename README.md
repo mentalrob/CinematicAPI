@@ -6,6 +6,7 @@ It allows you make cinematics in game
 
 ```
 // CinematicCamera capi = new CinematicCamera(PluginClass);
+// Create your CinematicCamera
 CinematicCamera capi = new CinematicCamera(this);
 
 Location loc = player.getLocation(); // Take a location from somewhere in this example our location comin from player
