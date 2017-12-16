@@ -1,0 +1,6 @@
+name: CinematicAPI
+version: 1.0
+main: me.mentalrob.CAPI.Core
+commands:
+  capi:
+    description: SEX
